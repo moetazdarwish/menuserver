@@ -23,10 +23,19 @@ class BranchesRatesSerializer(serializers.ModelSerializer):
             "name" : obj.branch.name
         }
     def get_process(self,obj):
+        if obj.process_date is None:
+            return {
+                "process": "No Data"
+            }
         return {
-            "process" : round(obj.process_date/60,2)
-        }
+                "process" : round(obj.process_date/60,2)
+            }
+
     def get_end(self,obj):
+        if obj.end_date is None:
+            return {
+                "end": "No Data"
+            }
         return {
             "end" : round(obj.end_date/60,2)
         }
