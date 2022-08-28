@@ -1,0 +1,251 @@
+Country,CountryCode,Code
+New Zealand,NZ,NZD
+Cook Islands,CK,NZD
+Niue,NU,NZD
+Pitcairn,PN,NZD
+Tokelau,TK,NZD
+Australian,AU,AUD
+Christmas Island,CX,AUD
+Cocos (Keeling) Islands,CC,AUD
+Heard and Mc Donald Islands,HM,AUD
+Kiribati,KI,AUD
+Nauru,NR,AUD
+Norfolk Island,NF,AUD
+Tuvalu,TV,AUD
+American Samoa,AS,EUR
+Andorra,AD,EUR
+Austria,AT,EUR
+Belgium,BE,EUR
+Finland,FI,EUR
+France,FR,EUR
+French Guiana,GF,EUR
+French Southern Territories,TF,EUR
+Germany,DE,EUR
+Greece,GR,EUR
+Guadeloupe,GP,EUR
+Ireland,IE,EUR
+Italy,IT,EUR
+Luxembourg,LU,EUR
+Martinique,MQ,EUR
+Mayotte,YT,EUR
+Monaco,MC,EUR
+Netherlands,NL,EUR
+Portugal,PT,EUR
+Reunion,RE,EUR
+Samoa,WS,EUR
+San Marino,SM,EUR
+Slovenia,SI,EUR
+Spain,ES,EUR
+Vatican City State (Holy See),VA,EUR
+South Georgia and the South Sandwich Islands,GS,GBP
+United Kingdom,GB,GBP
+Jersey,JE,GBP
+British Indian Ocean Territory,IO,USD
+Guam,GU,USD
+Marshall Islands,MH,USD
+Micronesia Federated States of,FM,USD
+Northern Mariana Islands,MP,USD
+Palau,PW,USD
+Puerto Rico,PR,USD
+Turks and Caicos Islands,TC,USD
+United States,US,USD
+United States Minor Outlying Islands,UM,USD
+Virgin Islands (British),VG,USD
+Virgin Islands (US),VI,USD
+Hong Kong,HK,HKD
+Canada,CA,CAD
+Japan,JP,JPY
+Afghanistan,AF,AFN
+Albania,AL,ALL
+Algeria,DZ,DZD
+Anguilla,AI,XCD
+Antigua and Barbuda,AG,XCD
+Dominica,DM,XCD
+Grenada,GD,XCD
+Montserrat,MS,XCD
+Saint Kitts,KN,XCD
+Saint Lucia,LC,XCD
+Saint Vincent Grenadines,VC,XCD
+Argentina,AR,ARS
+Armenia,AM,AMD
+Aruba,AW,ANG
+Netherlands Antilles,AN,ANG
+Azerbaijan,AZ,AZN
+Bahamas,BS,BSD
+Bahrain,BH,BHD
+Bangladesh,BD,BDT
+Barbados,BB,BBD
+Belarus,BY,BYR
+Belize,BZ,BZD
+Benin,BJ,XOF
+Burkina Faso,BF,XOF
+Guinea-Bissau,GW,XOF
+Ivory Coast,CI,XOF
+Mali,ML,XOF
+Niger,NE,XOF
+Senegal,SN,XOF
+Togo,TG,XOF
+Bermuda,BM,BMD
+Bhutan,BT,INR
+India,IN,INR
+Bolivia,BO,BOB
+Botswana,BW,BWP
+Bouvet Island,BV,NOK
+Norway,NO,NOK
+Svalbard and Jan Mayen Islands,SJ,NOK
+Brazil,BR,BRL
+Brunei Darussalam,BN,BND
+Bulgaria,BG,BGN
+Burundi,BI,BIF
+Cambodia,KH,KHR
+Cameroon,CM,XAF
+Central African Republic,CF,XAF
+Chad,TD,XAF
+Congo Republic of the Democratic,CG,XAF
+Equatorial Guinea,GQ,XAF
+Gabon,GA,XAF
+Cape Verde,CV,CVE
+Cayman Islands,KY,KYD
+Chile,CL,CLP
+China,CN,CNY
+Colombia,CO,COP
+Comoros,KM,KMF
+Congo-Brazzaville,CD,CDF
+Costa Rica,CR,CRC
+Croatia (Hrvatska),HR,HRK
+Cuba,CU,CUP
+Cyprus,CY,CYP
+Czech Republic,CZ,CZK
+Denmark,DK,DKK
+Faroe Islands,FO,DKK
+Greenland,GL,DKK
+Djibouti,DJ,DJF
+Dominican Republic,DO,DOP
+East Timor,TP,IDR
+Indonesia,ID,IDR
+Ecuador,EC,ECS
+Egypt,EG,EGP
+El Salvador,SV,SVC
+Eritrea,ER,ETB
+Ethiopia,ET,ETB
+Estonia,EE,EEK
+Falkland Islands (Malvinas),FK,FKP
+Fiji,FJ,FJD
+French Polynesia,PF,XPF
+New Caledonia,NC,XPF
+Wallis and Futuna Islands,WF,XPF
+Gambia,GM,GMD
+Georgia,GE,GEL
+Gibraltar,GI,GIP
+Guatemala,GT,GTQ
+Guinea,GN,GNF
+Guyana,GY,GYD
+Haiti,HT,HTG
+Honduras,HN,HNL
+Hungary,HU,HUF
+Iceland,IS,ISK
+Iran (Islamic Republic of),IR,IRR
+Iraq,IQ,IQD
+Israel,IL,ILS
+Jamaica,JM,JMD
+Jordan,JO,JOD
+Kazakhstan,KZ,KZT
+Kenya,KE,KES
+Korea North,KP,KPW
+Korea South,KR,KRW
+Kuwait,KW,KWD
+Kyrgyzstan,KG,KGS
+Lao PeopleÕs Democratic Republic,LA,LAK
+Latvia,LV,LVL
+Lebanon,LB,LBP
+Lesotho,LS,LSL
+Liberia,LR,LRD
+Libyan Arab Jamahiriya,LY,LYD
+Liechtenstein,LI,CHF
+Switzerland,CH,CHF
+Lithuania,LT,LTL
+Macau,MO,MOP
+Macedonia,MK,MKD
+Madagascar,MG,MGA
+Malawi,MW,MWK
+Malaysia,MY,MYR
+Maldives,MV,MVR
+Malta,MT,MTL
+Mauritania,MR,MRO
+Mauritius,MU,MUR
+Mexico,MX,MXN
+Moldova Republic of,MD,MDL
+Mongolia,MN,MNT
+Morocco,MA,MAD
+Western Sahara,EH,MAD
+Mozambique,MZ,MZN
+Myanmar,MM,MMK
+Namibia,NA,NAD
+Nepal,NP,NPR
+Nicaragua,NI,NIO
+Nigeria,NG,NGN
+Oman,OM,OMR
+Pakistan,PK,PKR
+Panama,PA,PAB
+Papua New Guinea,PG,PGK
+Paraguay,PY,PYG
+Peru,PE,PEN
+Philippines,PH,PHP
+Poland,PL,PLN
+Qatar,QA,QAR
+Romania,RO,RON
+Russian Federation,RU,RUB
+Rwanda,RW,RWF
+Sao Tome and Principe,ST,STD
+Saudi Arabia,SA,SAR
+Seychelles,SC,SCR
+Sierra Leone,SL,SLL
+Singapore,SG,SGD
+Slovakia (Slovak Republic),SK,SKK
+Solomon Islands,SB,SBD
+Somalia,SO,SOS
+South Africa,ZA,ZAR
+Sri Lanka,LK,LKR
+Sudan,SD,SDG
+Suriname,SR,SRD
+Swaziland,SZ,SZL
+Sweden,SE,SEK
+Syrian Arab Republic,SY,SYP
+Taiwan,TW,TWD
+Tajikistan,TJ,TJS
+Tanzania,TZ,TZS
+Thailand,TH,THB
+Tonga,TO,TOP
+Trinidad and Tobago,TT,TTD
+Tunisia,TN,TND
+Turkey,TR,TRY
+Turkmenistan,TM,TMT
+Uganda,UG,UGX
+Ukraine,UA,UAH
+United Arab Emirates,AE,AED
+Uruguay,UY,UYU
+Uzbekistan,UZ,UZS
+Vanuatu,VU,VUV
+Venezuela,VE,VEF
+Vietnam,VN,VND
+Yemen,YE,YER
+Zambia,ZM,ZMK
+Zimbabwe,ZW,ZWD
+Aland Islands,AX,EUR
+Angola,AO,AOA
+Antarctica,AQ,AQD
+Bosnia and Herzegovina,BA,BAM
+Congo (Kinshasa),CD,CDF
+Ghana,GH,GHS
+Guernsey,GG,GGP
+Isle of Man,IM,GBP
+Laos,LA,LAK
+Macao S.A.R.,MO,MOP
+Montenegro,ME,EUR
+Palestinian Territory,PS,JOD
+Saint Barthelemy,BL,EUR
+Saint Helena,SH,GBP
+Saint Martin (French part),MF,ANG
+Saint Pierre and Miquelon,PM,EUR
+Serbia,RS,RSD
+US Armed Forces,USAF,USD
